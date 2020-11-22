@@ -1,6 +1,8 @@
 # My Py
 
-Provides the library functions for my Circuit Python efforts
+Provides the library functions for my Circuit Python efforts.
+I'm using it here on a LED lamp project for the Steelyard.
+https://github.com/sourcetonuts/SteelYard1
 
 ## Usage:
 
